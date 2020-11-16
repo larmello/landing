@@ -1,0 +1,55 @@
+
+.footer {
+  text-align: center;
+  margin: 15px;
+  border-radius: 5px;
+  box-shadow: 2px 3px 5px gray;
+  padding: 50px;
+  background-color: #4F4943;
+}
+
+.footer p {
+  font-size: 10px;
+  font-weight: bold;
+}
+
+.inline {
+  text-align: center;
+}
+.inline li {
+  display: inline;
+}
+/* Facebook */
+.fa-facebook {
+  background-color:  #4F4943;
+  color: #0C88EF;
+}
+
+/* Twitter */
+.fa-twitter {
+  background-color: #4F4943;
+  color:  #1DA1F2;
+}
+
+/* LinkedIn */
+.fa-linkedin {
+  background-color:  #4F4943;
+  color: #0A66C2;
+}
+
+/* Instagram */
+.fa-instagram {
+  background-color:  #4F4943;
+  color: #B5379A;
+}
+
+/* YouTube */
+.fa-youtube {
+  background-color:  #4F4943;
+  color: #FF0000;
+}
+
+.fab:hover {
+  background-color: white;
+  transition-duration: .3s;
+}
